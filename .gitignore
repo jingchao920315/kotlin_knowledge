@@ -29,7 +29,6 @@ app/.gitignore
 app/app.iml
 app/libs/
 app/src/androidTest/
-app/src/main/AndroidManifest.xml
 app/src/test/
 build/
 gradle.properties
